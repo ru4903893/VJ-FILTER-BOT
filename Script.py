@@ -46,7 +46,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
 
-ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=VJ-{}
+ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=Vai-{}
 
 ɪғ {} ᴜɴɪǫᴜᴇ ᴜsᴇʀ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜ ʏᴏᴜʀ ʀᴇғᴇʀᴀʟ ʟɪɴᴋ ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅᴇᴅ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.
 
@@ -66,7 +66,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
 
-    # Don't Remove Credit @VJ_Botz
+    # Don't Remove Credit @Vi_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
@@ -204,7 +204,7 @@ Nᴀᴍᴇ - {}"""
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+ᴇxᴀᴍᴘʟᴇ : KFG 2022 or Pushpa 2024✅ or Pushpa 2 Hindi✅
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -493,11 +493,11 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  எப்படி மற்றும் என்ன செய்ய வேண்டும்
 
- படி 1: இந்த VJ-FILTER-BOT போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
+ படி 1: இந்த Ott File Sender போட் உங்கள் குழுவை நிர்வாகியாக்குங்கள்
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink omegalks.in 4b392f8eb6ad711fbe58
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -520,7 +520,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  How and what to do
 
- Step 1: Administer this VJ-FILTER-BOT bot to your group
+ Step 1: Administer this Ott File Sender bot to your group
 
  Step 2: Add your website and API
 
@@ -547,7 +547,7 @@ Also your tutorial will be Added Your Group..."""
 
  ఎలా మరియు ఏమి చేయాలి
 
- దశ 1: ఈ VJ-FILTER-BOT బాట్‌ని మీ సమూహానికి నిర్వహించండి
+ దశ 1: ఈ Ott File Sender బాట్‌ని మీ సమూహానికి నిర్వహించండి
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
@@ -574,11 +574,11 @@ Also your tutorial will be Added Your Group..."""
 
  कैसे और क्या करना है
 
- चरण 1: इस फ़िल्टर-बॉट बॉट को अपने समूह में प्रशासित करें
+ चरण 1: इस फ़िल्टर-बॉट समूह में प्रशासित करें
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक omegalinks.in 4b392f8eb6ad711fbe58
+ एक्सप: /शॉर्टलिंक omegalks.in 4b392f8eb6ad711fbe58
 
  एक वीडियो जोड़ें
 
@@ -601,11 +601,11 @@ Also your tutorial will be Added Your Group..."""
 
  എങ്ങനെ, എന്ത് ചെയ്യണം
 
- ഘട്ടം 1: ഈ തലപതി-ഫിൽട്ടർ-ബോട്ട് ബോട്ട് നിങ്ങളുടെ ഗ്രൂപ്പിലേക്ക് നൽകുക
+ ഘട്ടം 1: ഈ തലപതി-ഫിൽട്ടർ ഗ്രൂപ്പിലേക്ക് നൽകുക
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ കാലഹരണപ്പെടൽ: /shortlink omegalis.in 4b392f8eb6ad711fbe58
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -628,7 +628,7 @@ Also your tutorial will be Added Your Group..."""
 
  کیسے اور کیا کرنا ہے۔
 
- مرحلہ 1: اپنے گروپ میں اس VJ-FILTER-BOT بوٹ کا انتظام کریں۔
+ مرحلہ 1: اپنے گروپ میں اس Ott File Sender بوٹ کا انتظام کریں۔
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
@@ -655,11 +655,11 @@ Also your tutorial will be Added Your Group..."""
 
  કેવી રીતે અને શું કરવું
 
- પગલું 1: તમારા જૂથમાં આ VJ-FILTER-BOT બોટનું સંચાલન કરો
+ પગલું 1: તમારા જૂથમાં આ Ott File Sender બોટનું સંચાલન કરો
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ સમાપ્તિ: /shortlink omegalks.in 4b392f8eb6ad711fbe58
 
  વિડિઓ ઉમેરો
 
@@ -681,11 +681,11 @@ Also your tutorial will be Added Your Group..."""
 
  ಹೇಗೆ ಮತ್ತು ಏನು ಮಾಡಬೇಕು
 
- ಹಂತ 1: ಈ ಫಿಲ್ಟರ್-ಬಾಟ್ ಬೋಟ್ ಅನ್ನು ನಿಮ್ಮ ಗುಂಪಿಗೆ ನಿರ್ವಹಿಸಿ
+ ಹಂತ 1: ಈ ಫಿಲ್ಟರ್-ಬಾಟ್ ಬೋಟ್  ನಿರ್ವಹಿಸಿ
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ ಅವಧಿ: /shortlink omegalis.in 4b392f8eb6ad711fbe58
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -707,11 +707,11 @@ Also your tutorial will be Added Your Group..."""
 
  কিভাবে এবং কি করতে হবে
 
- ধাপ 1: আপনার গ্রুপে এই VJ-FILTER-BOT বট পরিচালনা করুন
+ ধাপ 1: আপনার গ্রুপে এই Ott File Sender বট পরিচালনা করুন
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ মেয়াদ: /shortlink omegalks.in 4b392f8eb6ad711fbe58
 
  একটি ভিডিও যোগ করুন
 
